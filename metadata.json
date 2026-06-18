@@ -1,0 +1,10 @@
+{
+  "name": "FrancoSpeak",
+  "description": "An interactive bilingual sandbox for English and French translation, speech tutoring, grammar refining, speaking practice, and listening comprehension.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
